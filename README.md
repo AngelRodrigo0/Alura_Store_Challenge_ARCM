@@ -90,7 +90,7 @@ El análisis concluye con un **informe ejecutivo**, donde se:
 1. Clonar el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/AluraStoreLatam](https://github.com/AngelRodrigo0/Alura_Store_Challenge_ARCM.git
+   git clone https://github.com/AngelRodrigo0/Alura_Store_Challenge_ARCM.git
    ```
 2. Abrir el notebook:
 
