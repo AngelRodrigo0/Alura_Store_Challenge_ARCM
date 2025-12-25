@@ -71,7 +71,7 @@ Se analizaron también los **productos individuales con mayor y menor volumen de
 
 📌 **Gráfico:** Productos más y menos vendidos  
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
 **Análisis:**
 - Podemos identificar que las categorías que en la Tienda 1 el producto más vendido un electrodoméstico (microondas).
@@ -85,11 +85,11 @@ La satisfacción del cliente es un factor clave para la sostenibilidad del negoc
 
 📌 **Gráfico:** Calificación promedio por tienda  
 
-![alt text](image-6.png)
+![alt text](images/image-6.png)
 
 📌 **Gráfico:** Matriz de correlación entre cantidad de ventas mensual, ingreso por ventas mensual y calificación promedio mensual  
 
-![alt text](image-7.png)
+![alt text](images/image-7.png)
 
 **Análisis:**
 - Una mayor calificación promedio indica mejor experiencia del cliente, por lo que podemos decir que las tiendas 2 y 3 muestran un índice de prosperidad.
@@ -104,7 +104,7 @@ Finalmente, se analizó el **coste promedio de envío**, dado que impacta direct
 
 📌 **Gráfico:** Coste promedio de envío por tienda  
 
-![alt text](image-8.png)
+![alt text](images/image-8.png)
 
 **Análisis:**
 - Un menor coste de envío representa una ventaja competitiva, por lo que la tienda 4 tiene una posición ventaja.
@@ -121,16 +121,16 @@ La variación interanual nos indica la evolución de los ingresos y la tendencia
 
 📌 **Gráfico:** Variación interanual porcentual del valor de ventas  
 
-![alt text](image-9.png)
+![alt text](images/image-9.png)
 
 📌 **Gráfico:** Participación porcentual anual de los ingresos por año y tienda
 
-![alt text](image-10.png)
+![alt text](images/image-10.png)
 
 📌 **Gráfico:** Valor de ventas acumulado por tienda
 
-![alt text](image-11.png)
-![alt text](image-12.png)
+![alt text](images/image-11.png)
+![alt text](images/image-12.png)
 
 **Análisis:**
 - Las tiendas 2 y 3 mostraron un incremento sustancial entre el año 2020 y 2021.
@@ -162,7 +162,10 @@ Con base en el análisis de los datos y las visualizaciones realizadas, se concl
 
 ### 📉💰 **TIENDA 4**
 
-![alt text](image-13.png)
+<p align="center">
+  <img src="images/tienda_no_recomendada.png" width="300">
+</p>
+
 
 **Justificación:**
 - Presenta los **menores ingresos totales**.
