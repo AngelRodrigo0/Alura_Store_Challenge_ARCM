@@ -32,7 +32,7 @@ En primer lugar, se analizaron los **ingresos totales generados por cada tienda*
 
 📌 **Gráfico:** Ingresos totales por tienda  
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 **Análisis:**
 - La tienda 1 demuestra una mayor capacidad de generación ingresos de ventas (26.1).
@@ -46,15 +46,15 @@ Posteriormente, se evaluó la distribución de ventas por **categoría de produc
 
 📌 **Gráfico:**  Cantidad de Ventas por categoría de producto y tienda  
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 📌 **Gráfico:**  Valor de ingresos por ventas por categoría y tienda 
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 📌 **Gráfico:**  Ingresos de Ventas por Categoría 
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 **Análisis:**
 - Podemos identificar que las categorías que más ventas generan son Muebles, Electrónicos y Juguetes.
