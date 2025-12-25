@@ -1,6 +1,7 @@
 # 📊 Informe Final de Análisis de Tiendas  
 **Recomendación para el Sr. Juan**
 
+![alt text](tienda.png)
 ---
 
 ## 1. Introducción
@@ -45,15 +46,15 @@ Posteriormente, se evaluó la distribución de ventas por **categoría de produc
 
 📌 **Gráfico:**  Cantidad de Ventas por categoría de producto y tienda  
 
-![image.png](attachment:image.png)
+![alt text](image-2.png)
 
 📌 **Gráfico:**  Valor de ingresos por ventas por categoría y tienda 
 
-![image-3.png](attachment:image-3.png)
+![alt text](image-3.png)
 
 📌 **Gráfico:**  Ingresos de Ventas por Categoría 
 
-![image-12.png](attachment:image-12.png)
+![alt text](image-4.png)
 
 **Análisis:**
 - Podemos identificar que las categorías que más ventas generan son Muebles, Electrónicos y Juguetes.
@@ -70,7 +71,7 @@ Se analizaron también los **productos individuales con mayor y menor volumen de
 
 📌 **Gráfico:** Productos más y menos vendidos  
 
-![image-4.png](attachment:image-4.png)
+![alt text](image-5.png)
 
 **Análisis:**
 - Podemos identificar que las categorías que en la Tienda 1 el producto más vendido un electrodoméstico (microondas).
@@ -84,11 +85,11 @@ La satisfacción del cliente es un factor clave para la sostenibilidad del negoc
 
 📌 **Gráfico:** Calificación promedio por tienda  
 
-![image-5.png](attachment:image-5.png)
+![alt text](image-6.png)
 
 📌 **Gráfico:** Matriz de correlación entre cantidad de ventas mensual, ingreso por ventas mensual y calificación promedio mensual  
 
-![image-10.png](attachment:image-10.png)
+![alt text](image-7.png)
 
 **Análisis:**
 - Una mayor calificación promedio indica mejor experiencia del cliente, por lo que podemos decir que las tiendas 2 y 3 muestran un índice de prosperidad.
@@ -103,7 +104,7 @@ Finalmente, se analizó el **coste promedio de envío**, dado que impacta direct
 
 📌 **Gráfico:** Coste promedio de envío por tienda  
 
-![image-6.png](attachment:image-6.png)
+![alt text](image-8.png)
 
 **Análisis:**
 - Un menor coste de envío representa una ventaja competitiva, por lo que la tienda 4 tiene una posición ventaja.
@@ -120,16 +121,16 @@ La variación interanual nos indica la evolución de los ingresos y la tendencia
 
 📌 **Gráfico:** Variación interanual porcentual del valor de ventas  
 
-![image-7.png](attachment:image-7.png)
+![alt text](image-9.png)
 
 📌 **Gráfico:** Participación porcentual anual de los ingresos por año y tienda
 
-![image-8.png](attachment:image-8.png)
+![alt text](image-10.png)
 
 📌 **Gráfico:** Valor de ventas acumulado por tienda
 
-![image-9.png](attachment:image-9.png)
-![image-11.png](attachment:image-11.png)
+![alt text](image-11.png)
+![alt text](image-12.png)
 
 **Análisis:**
 - Las tiendas 2 y 3 mostraron un incremento sustancial entre el año 2020 y 2021.
