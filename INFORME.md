@@ -1,7 +1,7 @@
 # 📊 Informe Final de Análisis de Tiendas  
 **Recomendación para el Sr. Juan**
 
-![alt text](tienda.png)
+![alt text](tienda-1.png)
 ---
 
 ## 1. Introducción
@@ -161,6 +161,8 @@ A partir de todos los indicadores analizados, se realizó una comparación globa
 Con base en el análisis de los datos y las visualizaciones realizadas, se concluye que **la tienda más conveniente para que el Sr. Juan venda es la:**
 
 ### 📉💰 **TIENDA 4**
+
+![alt text](image-13.png)
 
 **Justificación:**
 - Presenta los **menores ingresos totales**.
