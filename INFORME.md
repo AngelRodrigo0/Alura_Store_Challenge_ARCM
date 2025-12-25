@@ -1,7 +1,7 @@
 # 📊 Informe Final de Análisis de Tiendas  
 **Recomendación para el Sr. Juan**
 
-![alt text](tienda-1.png)
+![alt text](images/tienda-1.png)
 ---
 
 ## 1. Introducción
