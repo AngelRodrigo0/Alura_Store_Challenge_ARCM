@@ -31,7 +31,7 @@ En primer lugar, se analizaron los **ingresos totales generados por cada tienda*
 
 📌 **Gráfico:** Ingresos totales por tienda  
 
-![image-2.png](attachment:image-2.png)
+![alt text](image-1.png)
 
 **Análisis:**
 - La tienda 1 demuestra una mayor capacidad de generación ingresos de ventas (26.1).
